@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/FristCodeProject/App-OceanWeather/app/src/main/res/layout/activity_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/FristCodeProject/App-OceanWeather/app/src/main/res/layout/choose_area.xml" value="0.15081521739130435" />
+        <entry key="..\:/FristCodeProject/App-OceanWeather/app/src/main/res/layout/fragment_chose_area.xml" value="0.15081521739130435" />
       </map>
     </option>
   </component>

@@ -7,6 +7,6 @@
     <list>
         <mapping class="com.aster.oceanweather.db.Province" />
         <mapping class="com.aster.oceanweather.db.City" />
-        <mapping class="com.aster.oceanweather.db.Country" />
+        <mapping class="com.aster.oceanweather.db.County" />
     </list>
 </litepal>
